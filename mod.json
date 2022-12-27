@@ -4,5 +4,6 @@
 "author": "Shimyytrov Modding Team",
 "description": "A mod changes music.",
 "version": "1.0 Alpha",
+"hidden": true,
 "minGameVersion": "136"
 }
